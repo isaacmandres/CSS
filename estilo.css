@@ -1,0 +1,7 @@
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  text-align: center;
+  color: #008000; /* color verde oscuro */
+  border: 2px solid black; /* borde de 2px de grosor y color negro */
+}
